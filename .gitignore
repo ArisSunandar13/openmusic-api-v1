@@ -1,0 +1,3 @@
+node_modules
+*-lock.*
+.prod.env
